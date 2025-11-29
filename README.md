@@ -98,3 +98,24 @@ CaseFusion/
     └── results.json
 ```
 
+Use Cases:-
+🔍 Scam detection research
+🏦 Banking fraud analysis
+📧 Email fraud identification
+🧠 NLP-based academic systems
+🎓 AI/ML college projects
+
+Tech Stack
+->Python 3.9+
+->spaCy
+->HuggingFace Transformers
+->Regex / Rule-based extraction
+->PDF & Image processing tools
+->Google Generative AI (Gemini)
+
+License:-
+This project is created for academic and educational purposes.
+
+Contact:-
+For academic evaluation or queries - ranapranav912@gmail.com
+
