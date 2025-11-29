@@ -1,0 +1,61 @@
+[
+    {
+        "id": "crypto_email_case",
+        "description": "Case 1 – Crypto investment / withdrawal scam mail",
+        "file": "../eval_data/Case 1 mail.pdf",
+        "phones": [
+            "8494695558",
+            "9988777665"
+        ],
+        "emails": [
+            "support@bitsafe-pro-exchange-secure.com",
+            "pranavrana54@gmail.com"
+        ],
+        "bank_accounts": [
+            "501002348899"
+        ]
+    },
+    {
+        "id": "salary_email_case",
+        "description": "Case 2 – Task/Salary scam mail",
+        "file": "../eval_data/case mail 2.pdf",
+        "phones": [
+            "8494828268"
+        ],
+        "emails": [
+            "recruitment.global.hiring.desk@gmail.com",
+            "ranapranav912@gmail.com"
+        ],
+        "bank_accounts": [
+            "501002348899"
+        ]
+    },
+    {
+        "id": "whatsapp_chat_case",
+        "description": "WhatsApp task scam chat, screenshots s1–s5",
+        "files": [
+            "../eval_data/s1.jpeg",
+            "../eval_data/s2.jpeg",
+            "../eval_data/s3.jpeg",
+            "../eval_data/s4.jpeg",
+            "../eval_data/s5.jpeg"
+        ],
+        "phones": [
+            "8289002887"
+        ],
+        "emails": [],
+        "bank_accounts": [
+            "501002348899"
+        ]
+    },
+    {
+        "id": "audio_call_case",
+        "description": "Audio call – refundable security deposit call",
+        "file": "../eval_data/recording 3.m4a",
+        "phones": [
+            "9876512345"
+        ],
+        "emails": [],
+        "bank_accounts": []
+    }
+]
