@@ -71,7 +71,9 @@ flowchart TD
 ```
 
 
-📂 Project Structure:-
+## 📂 Project Structure
+
+```
 CaseFusion/
 │── ingestion.py
 │── main.py
@@ -94,3 +96,5 @@ CaseFusion/
 └── evaluation/
     ├── recording_3.m4a
     └── results.json
+```
+
