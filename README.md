@@ -62,12 +62,14 @@ Supports:
 
 ```mermaid
 flowchart TD
+```
     A[User Input] --> B[Ingestion Layer]
     B --> C[NLP Pipeline - NER and Keywords]
     C --> D[Rule and Model Engine]
     D --> E[Structured JSON Output]
 
 
+📂 Project Structure:-
 CaseFusion/
 │── ingestion.py
 │── main.py
