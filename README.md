@@ -68,3 +68,26 @@ flowchart TD
     B --> C[NLP Pipeline (NER + Keywords)]
     C --> D[Rule + Model Engine]
     D --> E[Structured JSON Output]
+
+CaseFusion/
+│── ingestion.py
+│── main.py
+│── nlp.py
+│── nlp_multilingual.py
+│── schemas.py
+│── graph_db.py
+│── evaluate_casefusion.py
+│── ground_truth.json
+│
+├── sample_cases/
+│   ├── Case 1 mail.pdf
+│   ├── case mail 2.pdf
+│   ├── s1.jpeg
+│   ├── s2.jpeg
+│   ├── s3.jpeg
+│   ├── s4.jpeg
+│   └── s5.jpeg
+│
+└── evaluation/
+    ├── recording_3.m4a
+    └── results.json
